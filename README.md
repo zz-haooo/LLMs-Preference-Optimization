@@ -121,6 +121,13 @@ A collection of Preference-Optimization methods in LLMs.
     <td class="tg-baqh" align="center">8 Jan 2024 </td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2401.04056">Paper</a></td>
   </tr>
+   <tr>
+    <td class="tg-0lax" align="center">DRO</td>
+    <td class="tg-baqh" align="center">Offline Regularised Reinforcement Learning for Large Language Models Alignment</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">29 May 2024</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2405.19107">Paper</a></td>
+  </tr>
   <tr>
     <td class="tg-0lax" align="center">RTO</td>
     <td class="tg-baqh" align="center">DPO Meets PPO: Reinforced Token Optimization for RLHF</td>
@@ -134,13 +141,6 @@ A collection of Preference-Optimization methods in LLMs.
     <td class="tg-0lax" align="center">ICLR Workshop 2024</td>
     <td class="tg-baqh" align="center">20 Apr 2024 </td>
     <td class="tg-0lax" align="center"><a href="https://weixiongust.github.io/WeiXiongUST/gshf.pdf">Paper</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" align="center">DRO</td>
-    <td class="tg-baqh" align="center">Offline Regularised Reinforcement Learning for Large Language Models Alignment</td>
-    <td class="tg-0lax" align="center">arxiv</td>
-    <td class="tg-baqh" align="center">29 May 2024</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2405.19107">Paper</a></td>
   </tr>
 </tbody>
 </table>
