@@ -142,6 +142,13 @@ A collection of Preference-Optimization methods in LLMs.
     <td class="tg-baqh" align="center">20 Apr 2024 </td>
     <td class="tg-0lax" align="center"><a href="https://weixiongust.github.io/WeiXiongUST/gshf.pdf">Paper</a></td>
   </tr>
+  <tr>
+    <td class="tg-0lax" align="center">MODPO</td>
+    <td class="tg-baqh" align="center">Beyond One-Preference-Fits-All Alignment: Multi-Objective Direct Preference Optimization</td>
+    <td class="tg-0lax" align="center">ACL 2024</td>
+    <td class="tg-baqh" align="center">5 Oct 2023 </td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2310.03708">Paper</a></td>
+  </tr>
 </tbody>
 </table>
 
