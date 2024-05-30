@@ -1,10 +1,8 @@
-# Preference-Optimization-in-LLMs
+# Preference-Optimization-for-LLM-Alignment
 
 A collection of Preference-Optimization methods in LLMs.
 
 
-
-## Collection of LLMs Survey
 <table class="tg">
 <thead>
   <tr>
@@ -24,6 +22,13 @@ A collection of Preference-Optimization methods in LLMs.
     <td class="tg-0lax" align="center">NeurIPS 2023</td>
     <td class="tg-baqh" align="center">29 May 2023</td>
     <td class="tg-0lax" align="center"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/a85b405ed65c6477a4fe8302b5e06ce7-Paper-Conference.pdf">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">SLiC-HF</td>
+    <td class="tg-baqh" align="center">Slic-hf: Sequence likelihood calibration with human feedback</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">17 May 2023  </td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2305.10425">Paper</a></td>
   </tr>
   <tr>
     <td class="tg-0lax" align="center">PRO</td>
@@ -46,4 +51,120 @@ A collection of Preference-Optimization methods in LLMs.
     <td class="tg-baqh" align="center">16 Jan 2024</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2401.08417">Paper</a></td>
   </tr>
-  
+  <tr>
+    <td class="tg-0lax" align="center">DPOP</td>
+    <td class="tg-baqh" align="center">Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">20 Feb 2024</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2402.13228">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">RSO</td>
+    <td class="tg-baqh" align="center">Statistical Rejection Sampling Improves Preference Optimization</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">13 Sep 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2309.06657">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">KTO</td>
+    <td class="tg-baqh" align="center">Kto: Model alignment as prospect theoretic optimization</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">2 Feb 2024</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2402.01306">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">ORPO</td>
+    <td class="tg-baqh" align="center">ORPO: Monolithic Preference Optimization without Reference Model</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">12 Mar 2024</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2403.07691">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">length-regularized DPO</td>
+    <td class="tg-baqh" align="center">Disentangling length from quality in direct preference optimization</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">28 Mar 2024</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2403.19159">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">SimPO</td>
+    <td class="tg-baqh" align="center">SimPO: Simple Preference Optimization with a Reference-Free Reward</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">23 May 2024</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2405.14734">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">GPO</td>
+    <td class="tg-baqh" align="center">Generalized Preference Optimization: A Unified Approach to Offline Alignment</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">8 Feb 2024</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2402.05749">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">NPO</td>
+    <td class="tg-baqh" align="center">Negative preference optimization: From catastrophic collapse to effective unlearning</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">8 Apr 2024</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2404.05868">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">SPO</td>
+    <td class="tg-baqh" align="center">A minimaximalist approach to reinforcement learning from human feedback</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">8 Jan 2024 </td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2401.04056">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">RTO</td>
+    <td class="tg-baqh" align="center">DPO Meets PPO: Reinforced Token Optimization for RLHF</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">29 Apr 2024 </td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2404.18922">Paper</a></td>
+  </tr>
+<tr>
+    <td class="tg-0lax" align="center">Multi RSO</td>
+    <td class="tg-baqh" align="center">Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-constraint</td>
+    <td class="tg-0lax" align="center">ICLR Workshop 2024</td>
+    <td class="tg-baqh" align="center">20 Apr 2024 </td>
+    <td class="tg-0lax" align="center"><a href="https://weixiongust.github.io/WeiXiongUST/gshf.pdf">Paper</a></td>
+  </tr>
+
+
+Analyzing and Understanding
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-nrix" align="center" rowspan="2">Category</th>
+    <th class="tg-baqh" align="center" rowspan="2">Title</th>
+    <th class="tg-0lax" align="center" rowspan="2">Venue</th>
+    <th class="tg-baqh" align="center" rowspan="2">Release Date</th>
+    <th class="tg-0lax" align="center" rowspan="2">Links</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nrix" align="center" rowspan="17">Offline</td>
+    <td class="tg-baqh" align="center">Towards Analyzing and Understanding the Limitations of DPO: A Theoretical Perspective</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">6 Apr 2024</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2404.04626">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Understanding the Effects of RLHF on LLM Generalisation and Diversity</td>
+    <td class="tg-0lax" align="center">ICLR2024</td>
+    <td class="tg-baqh" align="center">10 Oct 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://openreview.net/pdf?id=PXD3FAVHJT">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Understanding the Effects of RLHF on LLM Generalisation and Diversity</td>
+    <td class="tg-0lax" align="center">ICLR2024</td>
+    <td class="tg-baqh" align="center">10 Oct 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://openreview.net/pdf?id=PXD3FAVHJT">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Understanding the performance gap between online and offline alignment algorithms</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">14 May 2024</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2405.08448">Paper</a></td>
+  </tr>
