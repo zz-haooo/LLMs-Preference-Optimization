@@ -1,6 +1,6 @@
 # Preference-Optimization-in-LLMs
 
-A collection of survey papers and resources related to Large Language Models (LLMs).
+A collection of Preference-Optimization methods in LLMs.
 
 ## Table of Contents
 - [LLM Survey Summary](#llm-survey-summary)
