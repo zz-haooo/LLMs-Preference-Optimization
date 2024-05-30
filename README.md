@@ -32,3 +32,18 @@ A collection of Preference-Optimization methods in LLMs.
     <td class="tg-baqh" align="center">30 Jun 2023</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2306.17492v2">Paper</a></td>
   </tr>
+  <tr>
+    <td class="tg-0lax" align="center">IPO</td>
+    <td class="tg-baqh" align="center">A general theoretical paradigm to understand learning from human preferences</td>
+    <td class="tg-0lax" align="center">AISTATS 2024</td>
+    <td class="tg-baqh" align="center">18 Oct 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://proceedings.mlr.press/v238/gheshlaghi-azar24a/gheshlaghi-azar24a.pdf">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">CPO</td>
+    <td class="tg-baqh" align="center">Contrastive preference optimization: Pushing the boundaries of llm performance in machine translation</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">16 Jan 2024</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2401.08417">Paper</a></td>
+  </tr>
+  
