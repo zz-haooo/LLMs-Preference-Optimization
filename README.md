@@ -139,7 +139,7 @@ A collection of Preference-Optimization methods in LLMs.
     <td class="tg-0lax" align="center">DRO</td>
     <td class="tg-baqh" align="center">Offline Regularised Reinforcement Learning for Large Language Models Alignment</td>
     <td class="tg-0lax" align="center">arxiv</td>
-    <td class="tg-baqh" align="center">29 May 2024 </td>
+    <td class="tg-baqh" align="center">29 May 2024</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2405.19107">Paper</a></td>
   </tr>
 </tbody>
