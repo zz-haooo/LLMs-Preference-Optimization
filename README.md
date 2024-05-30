@@ -2,18 +2,14 @@
 
 A collection of Preference-Optimization methods in LLMs.
 
-## Table of Contents
-- [LLM Survey Summary](#llm-survey-summary)
-  - [Table of Contents](#table-of-contents)
-  - [Collection of LLMs Survey](#collection-of-llms-survey)
-  - [Acknowledgments](#acknowledgments)
-  - [Update Log](#update-log)
+
 
 ## Collection of LLMs Survey
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-nrix" align="center" rowspan="2">Category</th>
+    <th class="tg-baqh" align="center" rowspan="2">Method</th>
     <th class="tg-baqh" align="center" rowspan="2">Title</th>
     <th class="tg-0lax" align="center" rowspan="2">Venue</th>
     <th class="tg-baqh" align="center" rowspan="2">Release Date</th>
@@ -22,11 +18,12 @@ A collection of Preference-Optimization methods in LLMs.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="17">Comprehensive</td>
-    <td class="tg-baqh" align="center">A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT</td>
-    <td class="tg-0lax" align="center">arXiv</td>
-    <td class="tg-baqh" align="center">07 Mar 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/abs/2303.04226">Paper</a></td>
+    <td class="tg-nrix" align="center" rowspan="17">Offline</td>
+    <td class="tg-0lax" align="center">DPO</td>
+    <td class="tg-baqh" align="center">Direct preference optimization: Your language model is secretly a reward model</td>
+    <td class="tg-0lax" align="center">NeurIPS 2023</td>
+    <td class="tg-baqh" align="center">29 May 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/a85b405ed65c6477a4fe8302b5e06ce7-Paper-Conference.pdf">Paper</a></td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Language Model Behavior: A Comprehensive Survey</td>
