@@ -16,7 +16,7 @@ A collection of Preference-Optimization methods in LLMs.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="17">Offline</td>
+    <td class="tg-nrix" align="center" rowspan="50">Offline</td>
     <td class="tg-0lax" align="center">DPO</td>
     <td class="tg-baqh" align="center">Direct preference optimization: Your language model is secretly a reward model</td>
     <td class="tg-0lax" align="center">NeurIPS 2023</td>
@@ -27,7 +27,7 @@ A collection of Preference-Optimization methods in LLMs.
     <td class="tg-0lax" align="center">SLiC-HF</td>
     <td class="tg-baqh" align="center">Slic-hf: Sequence likelihood calibration with human feedback</td>
     <td class="tg-0lax" align="center">arxiv</td>
-    <td class="tg-baqh" align="center">17 May 2023  </td>
+    <td class="tg-baqh" align="center">17 May 2023</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2305.10425">Paper</a></td>
   </tr>
    <tr>
@@ -135,14 +135,13 @@ A collection of Preference-Optimization methods in LLMs.
     <td class="tg-baqh" align="center">29 Apr 2024 </td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2404.18922">Paper</a></td>
   </tr>
-<tr>
+  <tr>
     <td class="tg-0lax" align="center">Multi RSO</td>
     <td class="tg-baqh" align="center">Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-constraint</td>
     <td class="tg-0lax" align="center">ICLR Workshop 2024</td>
     <td class="tg-baqh" align="center">20 Apr 2024 </td>
     <td class="tg-0lax" align="center"><a href="https://weixiongust.github.io/WeiXiongUST/gshf.pdf">Paper</a></td>
   </tr>
-  
 </tbody>
 </table>
 
@@ -166,7 +165,7 @@ A collection of Preference-Optimization methods in LLMs.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix" align="center" rowspan="17">Offline</td>
+    <td class="tg-nrix" align="center" rowspan="50">Offline</td>
     <td class="tg-baqh" align="center">Towards Analyzing and Understanding the Limitations of DPO: A Theoretical Perspective</td>
     <td class="tg-0lax" align="center">arxiv</td>
     <td class="tg-baqh" align="center">6 Apr 2024</td>
@@ -189,6 +188,12 @@ A collection of Preference-Optimization methods in LLMs.
     <td class="tg-0lax" align="center">arxiv</td>
     <td class="tg-baqh" align="center">14 May 2024</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2405.08448">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh" align="center">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">16 Apr 2024</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2404.10719">Paper</a></td>
   </tr>
 </tbody>
 </table>
