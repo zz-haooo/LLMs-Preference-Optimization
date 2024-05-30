@@ -2,7 +2,7 @@
 
 A collection of Preference-Optimization methods in LLMs.
 
-
+## Methods
 <table class="tg">
 <thead>
   <tr>
@@ -130,7 +130,13 @@ A collection of Preference-Optimization methods in LLMs.
   </tr>
 
 
-Analyzing and Understanding
+
+
+
+
+
+
+## Analyzing and Understanding
 
 <table class="tg">
 <thead>
