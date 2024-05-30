@@ -61,7 +61,7 @@ A collection of Preference-Optimization methods in LLMs.
   <tr>
     <td class="tg-0lax" align="center">RSO</td>
     <td class="tg-baqh" align="center">Statistical Rejection Sampling Improves Preference Optimization</td>
-    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-0lax" align="center">ICLR 2024</td>
     <td class="tg-baqh" align="center">13 Sep 2023</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2309.06657">Paper</a></td>
   </tr>
@@ -164,10 +164,10 @@ A collection of Preference-Optimization methods in LLMs.
     <td class="tg-0lax" align="center"><a href="https://openreview.net/pdf?id=PXD3FAVHJT">Paper</a></td>
   </tr>
   <tr>
-    <td class="tg-baqh" align="center">Understanding the Effects of RLHF on LLM Generalisation and Diversity</td>
-    <td class="tg-0lax" align="center">ICLR2024</td>
-    <td class="tg-baqh" align="center">10 Oct 2023</td>
-    <td class="tg-0lax" align="center"><a href="https://openreview.net/pdf?id=PXD3FAVHJT">Paper</a></td>
+    <td class="tg-baqh" align="center">A Long Way To Go: Investigating Length Correlations in RLHF</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">5 Oct 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2310.03716">Paper</a></td>
   </tr>
   <tr>
     <td class="tg-baqh" align="center">Understanding the performance gap between online and offline alignment algorithms</td>
