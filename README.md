@@ -116,13 +116,6 @@ updating...
     <td class="tg-baqh" align="center">8 Apr 2024</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2404.05868">Paper</a></td>
   </tr>
-  <tr>
-    <td class="tg-0lax" align="center">SPO</td>
-    <td class="tg-baqh" align="center">A minimaximalist approach to reinforcement learning from human feedback</td>
-    <td class="tg-0lax" align="center">arxiv</td>
-    <td class="tg-baqh" align="center">8 Jan 2024 </td>
-    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2401.04056">Paper</a></td>
-  </tr>
    <tr>
     <td class="tg-0lax" align="center">DRO</td>
     <td class="tg-baqh" align="center">Offline Regularised Reinforcement Learning for Large Language Models Alignment</td>
@@ -198,6 +191,13 @@ updating...
     <td class="tg-0lax" align="center">arxiv</td>
     <td class="tg-baqh" align="center">28 Mar 2024</td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2403.19279">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">SPO</td>
+    <td class="tg-baqh" align="center">A minimaximalist approach to reinforcement learning from human feedback</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">8 Jan 2024 </td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2401.04056">Paper</a></td>
   </tr>
 </tbody>
 </table>
