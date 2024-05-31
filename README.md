@@ -2,6 +2,8 @@
 
 A collection of Preference-Optimization methods in LLMs.
 
+updating...
+
 ## Methods
 <table class="tg">
 <thead>
@@ -149,10 +151,56 @@ A collection of Preference-Optimization methods in LLMs.
     <td class="tg-baqh" align="center">5 Oct 2023 </td>
     <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2310.03708">Paper</a></td>
   </tr>
+  <tr>
+    <td class="tg-0lax" align="center">A-LoL</td>
+    <td class="tg-baqh" align="center">Leftover Lunch: Advantage-based Offline Reinforcement Learning for Language Models</td>
+    <td class="tg-0lax" align="center">ICLR 2024</td>
+    <td class="tg-baqh" align="center">24 May 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2305.14718">Paper</a></td>
+  </tr>
+
+
+
+  </thead>
+<tbody>
+  <tr>
+    <td class="tg-nrix" align="center" rowspan="50">Online</td>
+    <td class="tg-0lax" align="center">RLHF-PPO (InstructGPT)</td>
+    <td class="tg-baqh" align="center">Training language models to follow instructions with human feedback</td>
+    <td class="tg-0lax" align="center">NeurIPS 2022</td>
+    <td class="tg-baqh" align="center">4 Mar 2022</td>
+    <td class="tg-0lax" align="center"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">OAIF</td>
+    <td class="tg-baqh" align="center">Direct Language Model Alignment from Online AI Feedback</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">29 Feb 2024</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2402.04792">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">RAFT</td>
+    <td class="tg-baqh" align="center">RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment</td>
+    <td class="tg-0lax" align="center">TMLR 2023</td>
+    <td class="tg-baqh" align="center">13 Apr 2023</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2304.06767">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">RLOO</td>
+    <td class="tg-baqh" align="center">Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">22 Feb 2024</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2402.14740">Paper</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" align="center">RLP</td>
+    <td class="tg-baqh" align="center">Fine-Tuning Language Models with Reward Learning on Policy</td>
+    <td class="tg-0lax" align="center">arxiv</td>
+    <td class="tg-baqh" align="center">28 Mar 2024</td>
+    <td class="tg-0lax" align="center"><a href="https://arxiv.org/pdf/2403.19279">Paper</a></td>
+  </tr>
 </tbody>
 </table>
-
-
 
 
 
